@@ -12,6 +12,5 @@
 <br/>
 <br/>
 <br/>
-<br/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=niclasniklas&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
