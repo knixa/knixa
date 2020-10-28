@@ -4,7 +4,7 @@
 - ⚡ Fun fact: I play guitar/bass and enjoy starcraft oh so much
 <br/>
 
-### languages and tools (this far):
+### languages and tools (thus far):
 
 <img align="left" alt="C#" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="SQL" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
