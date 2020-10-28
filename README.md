@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there 👋 I'm Niclas aka Atkinstinkmoore
 
-<!--
-**Atkinstinkmoore/Atkinstinkmoore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✔ I’m currently learning: Everything! 1st year .Net on [Nackademin][school]
+- ⚡ Fun fact: I play guitar/bass and enjoy starcraft oh so much
+<br/>
 
-Here are some ideas to get you started:
+### languages and tools (this far):
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="C#" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]
+[<img align="left" alt="SQL" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+
+
+<br/>
+<br/>
+[school]: https://nackademin.se/utbildningar/programutvecklare-net/
