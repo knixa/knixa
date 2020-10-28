@@ -2,6 +2,7 @@
 
 - ✔ I’m currently learning: Everything! 1st year .Net on [Nackademin](https://nackademin.se/utbildningar/programutvecklare-net/)
 - ⚡ Fun fact: I play guitar/bass and enjoy starcraft oh so much
+***
 <br/>
 
 ### languages and tools (thus far):
@@ -11,6 +12,6 @@
 
 <br/>
 <br/>
-<br/>
+***
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=niclasniklas&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
