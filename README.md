@@ -3,7 +3,6 @@
 - ✔ I’m currently learning: Everything! 1st year .Net on [Nackademin](https://nackademin.se/utbildningar/programutvecklare-net/)
 - ⚡ Fun fact: I play guitar/bass and enjoy starcraft oh so much
 
-***
 
 ### languages and tools (thus far):
 
